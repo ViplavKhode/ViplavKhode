@@ -62,7 +62,7 @@
 
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus) 
+![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white) 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=black) 
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=007acc&logo=typescript&logoColor=black) 
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=61DBFB&logo=react&logoColor=black) 
