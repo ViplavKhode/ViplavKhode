@@ -81,7 +81,7 @@
 <br/>
 
 ## Top Open Source -
-[![Hermes](https://github-readme-stats.vercel.app/api/pin/?username=ViplavKhode&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ViplavKhode/hermes)
+[![hermes](https://github-readme-stats.vercel.app/api/pin/?username=ViplavKhode&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ViplavKhode/hermes)
 [![V-Board](https://github-readme-stats.vercel.app/api/pin/?username=ViplavKhode&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ViplavKhode/V-Board)
 [![Viplav Khode Readme](https://github-readme-stats.vercel.app/api/pin/?username=ViplavKhode&repo=ViplavKhode&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ViplavKhode/ViplavKhode)
 
