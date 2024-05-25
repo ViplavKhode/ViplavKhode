@@ -20,6 +20,8 @@
     <br>
     「 I am a full stack software developer from <b>India</b> 」
     <br>
+    「 Pursuing M.S in Computer Science from Purdue University 」
+    <br>
     <br>
   </samp>
 </p>
