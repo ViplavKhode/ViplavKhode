@@ -32,14 +32,11 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ViplavKhode"/>
  </a>
 
- <a href="https://twitter.com/_ViplavKhode" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/_ViplavKhode" target="_blank">
+ <a href="https://www.instagram.com/s.a.t.u.r.n.s" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ViplavKhode" />
  </a> 
- <a href="https://facebook.com/ViplavKhode.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ViplavKhode"  />
+ <a href="https://wa.me/918788011514?text=Hi,%20What%27s%20up" target="_blank">
+  <img src="https://img.shields.io/badge/Whatsapp-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="ViplavKhode"  />
   </a> 
 </p>
 <br />
@@ -84,8 +81,8 @@
 <br/>
 
 ## Top Open Source -
-[![hermes](https://github-readme-stats.vercel.app/api/pin/?username=ViplavKhode&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ViplavKhode/itasks)
-[![V-Board](https://github-readme-stats.vercel.app/api/pin/?username=ViplavKhode&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ViplavKhode/urfolio)
+[![Hermes](https://github-readme-stats.vercel.app/api/pin/?username=ViplavKhode&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ViplavKhode/hermes)
+[![V-Board](https://github-readme-stats.vercel.app/api/pin/?username=ViplavKhode&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ViplavKhode/V-Board)
 [![Viplav Khode Readme](https://github-readme-stats.vercel.app/api/pin/?username=ViplavKhode&repo=ViplavKhode&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ViplavKhode/ViplavKhode)
 
 <p align="left">
@@ -98,19 +95,19 @@
 
 <p align="center">
   <a href="https://github.com/ViplavKhode">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViplavKhode&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViplavKhode&theme=radical&border=7F3FBF&background=0D1117" alt="Viplav's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ViplavKhode">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViplavKhode&theme=radical" alt="Viplav Khode's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViplavKhode&theme=radical" alt="Viplav's GitHub Contribution"/>
   </a>
 </p>
 
 <a>
-    <a href="https://github.com/ViplavKhode"><img alt="Viplav Khode's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ViplavKhode&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/ViplavKhode"><img alt="Viplav Khode's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ViplavKhode&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/ViplavKhode"><img alt="Viplav's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ViplavKhode&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/ViplavKhode"><img alt="Viplav's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ViplavKhode&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
