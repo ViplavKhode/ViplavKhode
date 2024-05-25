@@ -115,4 +115,10 @@
 <br/>
 <br/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ViplavKhode&theme=dracula)](https://github.com/ViplavKhode/github-profile-trophy)
+
+<br/>
+<br/>
+
+
 ![Viplav Khode's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ViplavKhode&custom_title=Viplav%20Khode's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
