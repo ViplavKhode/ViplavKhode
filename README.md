@@ -37,7 +37,7 @@
  <a href="https://www.instagram.com/s.a.t.u.r.n.s" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ViplavKhode" />
  </a> 
- <a href="https://wa.me/918788011514?text=Hi,%20What%27s%20up" target="_blank">
+ <a href="https://wa.me/12604250373?text=Hi,%20What%27s%20up" target="_blank">
   <img src="https://img.shields.io/badge/Whatsapp-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="ViplavKhode"  />
   </a> 
 </p>
