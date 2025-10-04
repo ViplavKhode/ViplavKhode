@@ -36,14 +36,5 @@ Viplav Khode (विप्लव खोडे)
 - **Portfolio:** [@Viplav](https://viplav.vercel.app/)
 
 ## :bar_chart: My Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ViplavKhode&show_icons=true&theme=dark" alt="Viplav's GitHub Stats" width=442 height=200/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViplavKhode&layout=compact&theme=dark" height=200 width=442 alt="Viplav's Top Languages" />
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=ViplavKhode&card_width=442&theme=dark" media="(prefers-color-scheme: dark)">
-  <source srcset="https://github-readme-stats.vercel.app/api?username=ViplavKhode&card_width=442" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViplavKhode&card_width=442" height="200" alt="Viplav's GitHub stats">
-</picture>
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ViplavKhode&layout=compact&card_width=320&theme=dark" media="(prefers-color-scheme: dark)">
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ViplavKhode&layout=compact&card_width=320" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViplavKhode&layout=compact&card_width=320" height="200" alt="Viplav's Top Langs">
-</picture>
