@@ -10,10 +10,6 @@ I'm currently pursuing my Master’s in Computer Science at Purdue University Fo
 - Master of Science in Computer Science, Purdue University Fort Wayne (GPA: 3.9), USA
 - Bachelor’s in Computer Science & Engineering, Amravati University, India
 
-## :identification_card: My Name is
-
-Viplav Khode (विप्लव खोडे)
-
 ## :telescope: What I'm Currently Working On
 
 - Building AI-powered web applications with JavaScript.
