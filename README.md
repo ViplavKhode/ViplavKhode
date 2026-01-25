@@ -1,36 +1,48 @@
-# Hello Everyone 👋
+# Hello Everyone, I'm Viplav Khode 👋
 
-Hi! I'm Viplav Khode, Full Stack Developer / Software Engineer.
+I'm a **Full-Stack Engineer** specializing in enterprise-grade web applications and **AI-native solutions**.
 
-I specialize in **full-stack web development**, **AI/ML integration**, and **building scalable**, **reliable software**. My professional goal is to create impactful solutions that solve real problems and deliver value to users.
+I bridge the gap between robust backend systems and modern, AI-integrated user experiences. With a strong professional foundation from **Persistent Systems** and **Artbook**, combined with a **Master’s in Computer Science**, I focus on shipping scalable, secure, and data-driven software.
 
-I'm currently pursuing my Master’s in Computer Science at Purdue University Fort Wayne and have professional experience at **Persistent Systems**, India, and internships at **Artbook The Platform – Germany. I enjoy working on challenging projects that combine AI, cloud, and modern web technologies.
+### 🎓 Education
+- **Master of Science in Computer Science** | Purdue University Fort Wayne (GPA: 3.9) - *Graduated Dec 2025*
+- **Bachelor of Engineering in Computer Science** | Amravati University, India
 
-### Qualification
-- Master of Science in Computer Science, Purdue University Fort Wayne (GPA: 3.9), USA
-- Bachelor’s in Computer Science & Engineering, Amravati University, India
+---
 
-## :telescope: What I'm Currently Working On
+## :briefcase: Professional Experience
 
-- Building AI-powered web applications with JavaScript.
-- Developing scalable full-stack architectures using PostgreSQL, AWS, Docker, and serverless technologies.
-- Learning how to improve the quality of my software.
-- Exploring new technologies like NextJs, tRPC, NeonDB and more development tools.
+**Software Engineer | Persistent Systems** *June 2022 – Dec 2023*
+- **Identity Governance:** Engineered multi-tenant portals for utility clients, automating identity provisioning by integrating Saviynt IGA with custom Java REST APIs.
+- **Risk Dashboards:** Built interactive dashboards using **React and D3.js** to visualize real-time risk exposure and energy operational metrics.
+- **DevOps:** Modernized infrastructure with **GitHub Actions CI/CD pipelines**, enabling containerized delivery to hybrid AWS/Azure environments.
 
-## :computer: Tech Stack
+**Software Engineer Intern | Persistent Systems** *Jan 2022 – June 2022*
+- **UI Architecture:** Built 15+ reusable React components, establishing a shared internal library to improve frontend consistency.
+- **Quality Assurance:** Identified cross-browser issues and improved stability by writing end-to-end tests with **Cypress**.
 
-- **Programming Languages:** Python, Java, C/C++, JavaScript/TypeScript, Dart, SQL
-- **Frameworks & Libraries:** React.js, Next.js, Spring Boot, Flutter, TensorFlow, PyTorch, Scikit-Learn, OpenCV
-- **Data & Cloud:** PostgreSQL, MySQL, MongoDB, AWS (S3, Lambda, EC2), Docker
-- **Collaboration & Dev Tools:** Git, GitHub Actions, CI/CD, Agile/Scrum, JIRA, Figma
+**Flutter Developer Intern | Artbook - The Platform (Germany)** *Sep 2020 – Feb 2021*
+- **User Analytics:** Integrated **Firebase Analytics** to track DAU/MAU and session metrics, driving UI/UX optimizations that boosted user retention.
+- **Performance Optimization:** Refactored REST API implementations in **Dart** with caching and pagination, reducing average response times.
+- **Mobile Design:** Applied Material Design principles to revamp artist profile views, resulting in higher engagement rates.
 
+---
 
-## :link: How to Reach Me
+## :computer: Technical Skills (2026 Optimized)
 
-- **Social Media:** [@SATURNS](https://www.instagram.com/s.a.t.u.r.n.s/)
-- **LinkedIn:** [@ViplavKhode](https://www.linkedin.com/in/viplavkhode/)
-- **Portfolio:** [@Viplav](https://viplav.vercel.app/)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript (ES6+), Java (Spring Boot), Python, SQL, Dart, C/C++ |
+| **Frontend** | React.js, Next.js, Redux, Tailwind CSS, D3.js, Flutter, Web Accessibility (A11y) |
+| **Backend & APIs** | Node.js, Express, tRPC, RESTful APIs, Microservices, Prisma, Drizzle ORM |
+| **AI & Data** | RAG Architecture, Vector Search (Pinecone), LLM Integration (OpenAI/Gemini), PostgreSQL, MongoDB |
+| **Cloud & DevOps** | AWS (S3, Lambda, EC2), Docker, Kubernetes, GitHub Actions, CI/CD, Vercel |
+| **Analytics** | Pandas, NumPy, Tableau, Power BI, Matplotlib |
 
-## :bar_chart: My Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ViplavKhode&show_icons=true&theme=dark" alt="Viplav's GitHub Stats" width=442 height=200/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViplavKhode&layout=compact&theme=dark" height=200 width=442 alt="Viplav's Top Languages" />
+---
 
+## :link: Let's Connect
+
+- **LinkedIn:** [linkedin.com/in/ViplavKhode](https://www.linkedin.com/in/ViplavKhode)
+- **Portfolio:** [viplav.vercel.app](https://viplav.vercel.app/)
+- **Email:** [vnkhode@gmail.com](mailto:vnkhode@gmail.com)
