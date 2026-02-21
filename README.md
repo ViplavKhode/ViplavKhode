@@ -28,7 +28,7 @@ I bridge the gap between robust backend systems and modern, AI-integrated user e
 
 ---
 
-## :computer: Technical Skills (2026 Optimized)
+## :computer: Technical Skills
 
 | Category | Technologies |
 | :--- | :--- |
